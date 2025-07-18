@@ -1,4 +1,4 @@
-# 2 sector selection Roy model estimation through julia. 
+# 2 sector worker- - Roy model estimation.
 2 sector worker - Roy model estimation 
 
 Reference 
